@@ -3,7 +3,6 @@
 Um aplicativo de desktop simples, construído com Python e Tkinter, para medir a velocidade de download e upload da sua conexão com a internet.
 
  
-*(Substitua o link acima por uma captura de tela do seu aplicativo, se desejar)*
 
 ## Funcionalidades
 
@@ -31,4 +30,5 @@ Um aplicativo de desktop simples, construído com Python e Tkinter, para medir a
    Ainda no terminal, execute o script principal:
    ```sh
    python main.py
+
    ```
